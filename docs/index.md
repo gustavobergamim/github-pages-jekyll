@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+Test include other MarkDown
+
+{% include_relative include-test.md %}
