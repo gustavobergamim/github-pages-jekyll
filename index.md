@@ -7,4 +7,4 @@ layout: home
 
 Test include other MarkDown
 
-{% include_relative include-test.md %}
+{% include_relative /tasks/include-test.md %}
